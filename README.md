@@ -6,9 +6,9 @@
 ## 2. Vérification de Python, Pip et Frida
 
 <img width="426" height="87" alt="image" src="https://github.com/user-attachments/assets/73116742-6451-4bf8-a9db-f63233d1c18d" />
-
+---
 <img width="1441" height="331" alt="image" src="https://github.com/user-attachments/assets/1f214f28-6e13-4491-9721-0b69978b5c5b" />
-
+---
 <img width="938" height="233" alt="image" src="https://github.com/user-attachments/assets/1d335e7d-59a7-419b-9599-3ccc522d8d91" />
 
 ## 3. Vérification de la connexion ADB avec l’émulateur Android
